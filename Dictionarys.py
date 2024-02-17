@@ -122,3 +122,4 @@ print(d2)
 
 squares = {a:a*a for a in range(1,6)}
 print(squares)
+
